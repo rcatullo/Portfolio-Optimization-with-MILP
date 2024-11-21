@@ -1,1 +1,5 @@
-
+gurobipy==10.0.0  # Gurobi optimization library
+yfinance==0.2.27  # For fetching stock market data
+pandas==2.1.1  # For data manipulation
+numpy==1.24.3  # For numerical computations
+matplotlib==3.8.0  # For visualization
